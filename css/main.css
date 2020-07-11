@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("../local-cdn_link/font-api.css");
 
 /*STYLE FOR MENU*/
 body {
@@ -182,7 +182,7 @@ img {
       top: 70px;
     }
    .hero{
-      background-image: url('../img/Rectangle\ 1.svg');
+      background-image: url('../img/local/img-hero.png');
       height: auto;
       background-repeat: no-repeat;
       background-size: cover;
